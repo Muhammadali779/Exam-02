@@ -27,7 +27,7 @@ calculate(7, 4, "^")     # Error: Noto'g'ri operator
 **Funksiya**: `atm_operation(balance: int, action: str, amount: int) -> dict`
 
 **Talab**:
-- 3 ta amal: `deposit`, `withdraw`
+- 2 ta amal: `deposit`, `withdraw`
 - Withdraw uchun balans yetarli emasligini tekshiring
 - Manfiy summa kiritsa xato qaytaring
 - Natija: `balance`
