@@ -24,7 +24,7 @@ calculate(7, 4, "^")     # Error: Noto'g'ri operator
 
 ## **Masala 2: Simple ATM Simulation**
 
-**Funksiya**: `atm_operation(balance: int, action: str, amount: int) -> dict`
+**Funksiya**: `atm_operation(balance: int, action: str, amount: int) -> int`
 
 **Talab**:
 - 2 ta amal: `deposit`, `withdraw`
